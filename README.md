@@ -6,7 +6,7 @@
 
 ## 1 · Requisitos
 
-
+Terminal: Kitty
 No se necesita `wl-clipboard`, `xclip` ni *xwayland*.
 
 ---
